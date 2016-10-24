@@ -1,3 +1,3 @@
 # kibo-ecom-client
 
-MAKE Kibo GR8 AGAIN
+Make Kibo grit again
